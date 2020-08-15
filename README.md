@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my college final project (BePresensi)
+- 🌱 I’m currently learning Android Development (Kotlin) and Laravel Framework
+- 📫 You can reach me at **[ilhamchp@gmail.com](mailto:ilhamchp@gmail.com)**
+- ⚡ Fun fact: I had a big interest with Mobile App Development (both iOS and Android)
 
 <!--
 **ilhamchp/ilhamchp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
