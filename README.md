@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my college final project (BePresensi)
-- 🌱 I’m currently learning Android Development (Kotlin) and Laravel Framework
+- 🔭 I’m currently working on my office project (Chat, Video Call, and VoIP)
+- 🌱 I’m currently learning iOS Development (Swift) and Flutter Framework
 - 📫 You can reach me at **[ilhamchp@gmail.com](mailto:ilhamchp@gmail.com)**
+- - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I had a big interest with Mobile App Development (both iOS and Android)
 
 <!--
