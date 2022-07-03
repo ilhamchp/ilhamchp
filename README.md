@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my office project (Chat, Video Call, and VoIP)
+- 🔭 I’m currently working on my office project (e-commerce)
 - 🌱 I’m currently learning iOS Development (Swift) and Flutter Framework
 - 📫 You can reach me at **[ilhamchp@gmail.com](mailto:ilhamchp@gmail.com)**
 - - 😄 Pronouns: He / Him
